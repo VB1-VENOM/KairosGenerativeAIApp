@@ -13,7 +13,7 @@ Model: OpenAI gpt-3.5-turbo and gpt-4
 
 Language: SwiftUI, Swift, JSON.
 
-Improvements to be made in the next few months: More Usable UI,
+Improvements to be made in the next few months: More Polished UI.
 
 
 ![IMG_2264](https://github.com/user-attachments/assets/8e3928da-10f2-4afd-8495-e43da7e00488)
